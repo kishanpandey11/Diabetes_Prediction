@@ -15,8 +15,7 @@
 2. Support Vector Machine
 3. KNN
 4. Random Forest Classifier 
-5. Naivye Bayes
-6. Gradient Boosting
+5. Gradient Boosting
 
 ### Model Evaluation Methods Used
 
